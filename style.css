@@ -1,0 +1,6 @@
+img {
+  max-width: 300px;
+  max-height: 200px;
+  /*column-span: 100px;
+  column-width: 300px;*/
+}
